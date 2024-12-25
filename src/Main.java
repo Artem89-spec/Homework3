@@ -21,7 +21,6 @@ public class Main {
         short myShortVariable2 = 27897;
         short myShortVariable3 = - 159;
         short myShortVariable4 = 569;
-        int myIntVariable2 = 100000;
         long myLongVariable2 = 987678965549L;
         float myFloatVariable2 = 27.12f;
         double myDoubleVariable2 = 2.786;
